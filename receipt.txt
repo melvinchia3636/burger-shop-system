@@ -1,0 +1,22 @@
+                  Bert's Burger                   
+--------------------------------------------------
+99 pc(s) Tiny Burger costs PHP 1980.00
+99 pc(s) Teriyaki Burger costs PHP 15840.00
+99 pc(s) Rice Burger costs PHP 11880.00
+99 pc(s) Rice Burger costs PHP 11880.00
+5 pc(s) Rice Burger costs PHP 600.00
+1 pc(s) Rice Burger costs PHP 120.00
+1 pc(s) Rice Burger costs PHP 120.00
+1 pc(s) Rice Burger costs PHP 120.00
+1 pc(s) Rice Burger costs PHP 120.00
+1 pc(s) Rice Burger costs PHP 120.00
+1 pc(s) Rice Burger costs PHP 120.00
+--------------------------------------------------
+Total Cost: PHP 42900.00
+Discount: Premium Membership (30%)
+Discounted Price: PHP 30030.00
+Cash Tendered: PHP 40000.00
+Change: PHP 9970.00
+--------------------------------------------------
+        Thank you for using this facility!        
+                   Come again!                    

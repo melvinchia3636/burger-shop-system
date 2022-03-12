@@ -1,0 +1,15 @@
+Tiny Burger: 20
+Jumbo Burger: 80
+Turkey Burger: 85
+Chicken Burger: 90
+BBQ Burger: 90
+Banquet Burger: 150
+Chili Burger: 100
+California Burger: 120
+Jucy Lucy: 130
+Rice Burger: 120
+Salmon Burger: 150
+Slopper: 120
+Slug Burger: 110
+Veggie Burger: 150
+Teriyaki Burger: 160
